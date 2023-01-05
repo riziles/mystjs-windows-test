@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "myst-templates": "^0.1.2",
+    "myst-to-tex": "^0.0.9"
+  }
+}
